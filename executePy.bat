@@ -1,0 +1,1 @@
+"C:\Users\Colin\Anaconda3\python.exe" "C:\Users\Colin\Desktop\yosemite\script.py" >> "C:\Users\Colin\Desktop\yosemite\logs.txt"
